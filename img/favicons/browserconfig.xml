@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+  <msapplication>
+    <tile>
+      <square70x70logo src="/img/favicons/EvolveImpact_logo.png"/>
+      <square150x150logo src="/img/favicons/EvolveImpact_logo.png"/>
+      <wide310x150logo src="/img/favicons/EvolveImpact_logo.png"/>
+      <TileColor>#00a8ff</TileColor>
+    </tile>
+  </msapplication>
+</browserconfig>
