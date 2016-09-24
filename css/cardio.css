@@ -689,7 +689,7 @@ footer .social-footer li:hover a {
 	width: 140%;
 	padding: 45px 30px;
 	text-align: center;
-	background-color: #00a8ff;
+	background-color: #9b90b9;
 	box-shadow: none;
 	border-radius: 2px;
 }
@@ -884,7 +884,7 @@ footer .social-footer li:hover a {
 	width: 100%;
 	padding: 15px 0;
 	color: #fff;
-	background: #00a8ff;
+	background: #8fbfd1;
 }
 
 .row.title {
@@ -924,11 +924,35 @@ footer .social-footer li:hover a {
 }
 
 .blue {
-	color: #00a8ff;
+	color: #8fbfd1;
 }
 
 .blue-bg {
-	background: #00a8ff;
+	background: #8fbfd1;
+}
+
+.sage {
+	color: #c1d7c7;
+}
+
+.sage-bg {
+	background: #c1d7c7;
+}
+
+.lavender {
+	color: #9b90b9;
+}
+
+.lavender-bg {
+	background: #9b90b9;
+}
+
+.salmon {
+	color: #eba08b;
+}
+
+.salmon-bg {
+	background: #eba08b;
 }
 
 .muted {
